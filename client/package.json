@@ -10,5 +10,8 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }

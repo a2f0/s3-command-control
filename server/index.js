@@ -5,6 +5,7 @@ const port = 1338
 
 app.post('/', (req, res) => {
   res.statusCode = 201;
+  res.send()
 })
 
 app.listen(port, () => {
